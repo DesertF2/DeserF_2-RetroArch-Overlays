@@ -29,3 +29,6 @@ Sonic The Fighters:
 These are the only ones I've finished as I'm writing this. I'm planning on making more and add them here with the rest.
 
 If you want to include these overlays in your pack, please give proper credit.
+
+-------------------------------------------------------------------------------------------------
+Ignore the history in these files, I'm still new to github lol.
