@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="Smash64_Preview" src="https://github.com/user-attachments/assets/8e2be04b-f9bc-404d-be2e-a4ad0dcb0073" /># DeserF_2-s-RetroArch-Overlays
+# DeserF_2-s-RetroArch-Overlays
 A collection of some overlays I made for RetroArch. 
 
 The included overlays are as follows:
