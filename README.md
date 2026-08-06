@@ -29,7 +29,10 @@ Darkstalkers:
 Sonic The Fighters:
 <img width="1280" height="720" alt="208E57~1" src="https://github.com/user-attachments/assets/64d8d02b-7ab9-4647-95a9-fe7bdb3b81b2" />
 
+------------------------------------------------
+You can also switch to ALT versions if you want to increase the game screen size.
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/99687450-ccf9-46db-9386-1be88e8b8fa6" />
+
 
 These are the only ones I've finished as I'm writing this. I'm planning on making more and add them here with the rest.
-
 If you want to include these overlays in your pack, please give proper credit.
