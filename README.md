@@ -23,6 +23,9 @@ Pac-Man:
 Super Mario World:
 <img width="1280" height="720" alt="Mario-World_Preview" src="https://github.com/user-attachments/assets/fec1cff2-05d7-4944-ab69-6cd8eb2ea199" />
 
+Darkstalkers:
+<img width="1280" height="720" alt="Darkstalkers_Preview" src="https://github.com/user-attachments/assets/597e4068-2f73-4a4f-b7f0-481231485a14" />
+
 Sonic The Fighters:
 <img width="1280" height="720" alt="208E57~1" src="https://github.com/user-attachments/assets/64d8d02b-7ab9-4647-95a9-fe7bdb3b81b2" />
 
@@ -30,6 +33,3 @@ Sonic The Fighters:
 These are the only ones I've finished as I'm writing this. I'm planning on making more and add them here with the rest.
 
 If you want to include these overlays in your pack, please give proper credit.
-
--------------------------------------------------------------------------------------------------
-Ignore the history in these files, I'm still new to github lol.
