@@ -5,7 +5,8 @@ The included overlays are as follows:
 
 ------------------------------------------------
 Marvel Vs. Capcom 2:
-<img width="1280" height="720" alt="MVC2_Preview" src="https://github.com/user-attachments/assets/2feb3f9d-d026-4895-99b3-20c8601ac785" />
+<img width="1280" height="720" alt="MVC2_Preview" src="https://github.com/user-attachments/assets/a6916b5d-b04c-49c7-ae7d-cb99f1deca88" />
+
 
 Super Smash Bros. 64:
 <img width="1280" height="720" alt="Smash64_Preview" src="https://github.com/user-attachments/assets/32dc9afd-247c-4674-ab38-49f838a20d66" />
