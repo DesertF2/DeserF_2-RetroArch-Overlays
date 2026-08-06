@@ -25,6 +25,6 @@ Super Mario World:
 Sonic The Fighters:
 <img width="1280" height="720" alt="Sonic-Fighters_Preview" src="https://github.com/user-attachments/assets/050c901a-ddce-47cd-b67f-2cd79e6eeda1" />
 
-These are the only ones I've finished as I'm writing this. I'm planning on making more and adding them here with the rest.
+These are the only ones I've finished as I'm writing this. I'm planning on making more and add them here with the rest.
 
 If you want to include these overlays in your pack, please give proper credit.
