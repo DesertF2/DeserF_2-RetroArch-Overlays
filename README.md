@@ -14,8 +14,11 @@ Super Smash Bros. 64:
 Paper Mario 64:
 <img width="1280" height="720" alt="Paper-Mario_Preview" src="https://github.com/user-attachments/assets/5c8ea260-7e91-4c39-a6be-04d23d69667d" />
 
-The Legend of Zelda OoT:
+The Legend of Zelda - OoT:
 <img width="1280" height="720" alt="Zelda_Preview" src="https://github.com/user-attachments/assets/1b4bcf0b-80ff-4ac3-a737-9aa7ec82062b" />
+
+The Legend of Zelda - Majora's Mask:
+<img width="2560" height="1440" alt="MajorasMask_Overlay" src="https://github.com/user-attachments/assets/1aac7733-db3e-4430-abad-a8831d57f598" />
 
 Pac-Man:
 <img width="1280" height="720" alt="Pac-Man_Preview" src="https://github.com/user-attachments/assets/9ba31fdc-0828-4807-a043-2bbf6a8ab140" />
@@ -36,3 +39,4 @@ You can also switch to ALT versions if you want to increase the game screen size
 
 These are the only ones I've finished as I'm writing this. I'm planning on making more and add them here with the rest.
 If you want to include these overlays in your pack, please give proper credit.
+
