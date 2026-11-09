@@ -17,7 +17,7 @@ The Legend of Zelda - OoT:
 <img width="1280" height="720" alt="Zelda_Preview" src="https://github.com/user-attachments/assets/1b4bcf0b-80ff-4ac3-a737-9aa7ec82062b" />
 
 The Legend of Zelda - Majora's Mask:
-<img width="2560" height="1440" alt="MajorasMask_Overlay" src="https://github.com/user-attachments/assets/1a88527a-8825-4b5a-842f-362e9d3d184d" />
+<img width="1280" height="720" alt="MajorasMask_Preview" src="https://github.com/user-attachments/assets/08ce9eec-2f45-4b01-804d-8870dfa8a35a" />
 
 Pac-Man:
 <img width="1280" height="720" alt="Pac-Man_Preview" src="https://github.com/user-attachments/assets/9ba31fdc-0828-4807-a043-2bbf6a8ab140" />
